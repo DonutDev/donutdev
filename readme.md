@@ -3,12 +3,7 @@ I'm Donut, I like making software!
 - I use Fedora Linux 🐧
 - I like Python 🐍
 
-### Specs
-### Hi there 👋
-I'm Donut, I like making software!
-- I use Fedora Linux 🐧
-- I like Python 🐍
-**Stats**
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donutdev&show_icons=true&theme=radical)
 
 
