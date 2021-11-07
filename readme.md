@@ -5,6 +5,7 @@ I'm Donut, I like making software!
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donutdev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdev&show_icons=true&theme=radical)
 
 
 <!--
