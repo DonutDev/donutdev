@@ -4,7 +4,7 @@ I'm Donut, I like making software!
 - I like Python 🐍
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdev&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdev&include_all_commits=true&theme=radical)
 
 
 
