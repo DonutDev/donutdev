@@ -2,7 +2,7 @@
 I'm Donut, I like making software!
 - I use Fedora Linux 🐧
 - I like Python 🐍
-- Learning Dart & Flutter 🎯
+- Learning JavaScript 🎯
 
 
 <!--
