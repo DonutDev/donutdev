@@ -1,7 +1,4 @@
-### Hi there 👋
-- I use Linux 🐧
-- I like Programming 🐍
-- Learning JavaScript 🎯
+
 
 
 <!--
